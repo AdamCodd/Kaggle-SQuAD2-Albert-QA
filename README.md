@@ -1,6 +1,6 @@
 # Kaggle-SQuAD2-Albert-QA
 
-This repository contains the code and resources for a Question-Answering (QA) model based on the ALBERT language model, trained and evaluated on the Stanford Question Answering Dataset (SQuAD) version 2.0. The model is designed to answer questions based on a given context and has been fine-tuned for this specific task.
+This repository contains the code to train a Question-Answering (QA) model based on the ALBERT language model. The training and evaluation is done on the Stanford Question Answering Dataset (SQuAD) version 2.0. The model is designed to answer questions based on a given context and has been fine-tuned for this specific task.
 
 ## Key Features
 1. <b>Environment Setup</b>: The code includes the setup for the Python environment, including the installation of necessary libraries and dependencies using pip.
